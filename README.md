@@ -1,2 +1,2 @@
-# habit-bloom-privacy
-Privacy Policy for Habit Bloom
+# bloom-life-privacy
+Privacy Policy for Bloom Life
